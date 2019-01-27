@@ -15,7 +15,7 @@ c=c+b*b*b;
 t=t/10;
 }
 if(c==i)
- printf("%d",c);
+ printf("yes");
 //printf("%d",c);   }}
    }
 getch();
